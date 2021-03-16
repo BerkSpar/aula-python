@@ -6,3 +6,4 @@ Aqui ficam todos os materiais de aulas que eu ministrei e alguns conteúdos extr
 
 ### Python
 * [Introdução à Python](/python/introducao_python.ipynb)
+* [Busca Binária](/python/busca_binaria.ipynb)
